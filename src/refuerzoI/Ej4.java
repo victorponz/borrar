@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ej4 {
     public static void main(String[] args) {
-        System.out.println("Introduce un número: ");
+        System.out.println("Introduce un número:");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int n2;
