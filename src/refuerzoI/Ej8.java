@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  * Crea un programa en java que pida al usuario un número entero y responda si es múltiplo de 2 o de 3.
  */
+// Cambiado en casa
 public class Ej8 {
     public static void main(String[] args) {
         int n;
